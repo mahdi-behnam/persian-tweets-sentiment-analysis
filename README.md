@@ -106,3 +106,8 @@ Hugging Face models (ParsBERT, XLM-R, mBERT, RoBERTa-fa) will download automatic
 
 - The notebooks include hooks for ensembling (voting/stacking for classic models and room to extend deep-model ensembling).
 - Paper preview available on request; feel free to reach out for a copy or additional experimental details.
+
+## Credits
+
+- This repository accompanies the submitted paper **“Ensemble Learning in Transformer-based Models for Persian Language Sentiment Analysis.”** Attribution is appreciated if you build on this work.
+- Do not reuse the code or figures to present the paper as someone else’s; reach out for collaboration or clarification before adapting the material.
